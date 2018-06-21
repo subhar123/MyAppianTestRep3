@@ -1,1 +1,1 @@
-insert into epasoptionsinfo(bigint,optionname) values(111,'test')
+insert into epasoptionsinfo(bigint,optionname) values(111,'test');
